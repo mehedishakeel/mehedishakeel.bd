@@ -1,0 +1,7 @@
+# Private user logs and messages
+messages.json
+stats.json
+
+# OS files
+.DS_Store
+Thumbs.db

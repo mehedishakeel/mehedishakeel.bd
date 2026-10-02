@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /track.php
+
+# Google Search Console & Search Engine Sitemaps
+Sitemap: https://mehedishakeel.github.io/mehedishakeel.bd/sitemap.xml
